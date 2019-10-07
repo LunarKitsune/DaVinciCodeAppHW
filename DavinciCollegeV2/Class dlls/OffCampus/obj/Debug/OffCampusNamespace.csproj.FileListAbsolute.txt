@@ -1,0 +1,8 @@
+C:\Users\Ken\source\repos\DavinciCollegeV2\Class dlls\OffCampus\bin\Debug\OffCampus.dll
+C:\Users\Ken\source\repos\DavinciCollegeV2\Class dlls\OffCampus\bin\Debug\OffCampus.pdb
+C:\Users\Ken\source\repos\DavinciCollegeV2\Class dlls\OffCampus\bin\Debug\Student.dll
+C:\Users\Ken\source\repos\DavinciCollegeV2\Class dlls\OffCampus\bin\Debug\Student.pdb
+C:\Users\Ken\source\repos\DavinciCollegeV2\Class dlls\OffCampus\obj\Debug\OffCampusNamespace.csprojAssemblyReference.cache
+C:\Users\Ken\source\repos\DavinciCollegeV2\Class dlls\OffCampus\obj\Debug\OffCampusNamespace.csproj.CopyComplete
+C:\Users\Ken\source\repos\DavinciCollegeV2\Class dlls\OffCampus\obj\Debug\OffCampus.dll
+C:\Users\Ken\source\repos\DavinciCollegeV2\Class dlls\OffCampus\obj\Debug\OffCampus.pdb

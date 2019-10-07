@@ -1,0 +1,5 @@
+C:\Users\Ken\source\repos\DavinciCollegeV2\Class dlls\Student\bin\Debug\Student.dll
+C:\Users\Ken\source\repos\DavinciCollegeV2\Class dlls\Student\bin\Debug\Student.pdb
+C:\Users\Ken\source\repos\DavinciCollegeV2\Class dlls\Student\obj\Debug\StudentNamespace.csprojAssemblyReference.cache
+C:\Users\Ken\source\repos\DavinciCollegeV2\Class dlls\Student\obj\Debug\Student.dll
+C:\Users\Ken\source\repos\DavinciCollegeV2\Class dlls\Student\obj\Debug\Student.pdb

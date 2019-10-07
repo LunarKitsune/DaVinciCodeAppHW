@@ -1,0 +1,16 @@
+C:\Users\Ken\source\repos\DavinciCollegeV2\DavinciCollegeV2\obj\Debug\DavinciCollegeV2.csprojAssemblyReference.cache
+C:\Users\Ken\source\repos\DavinciCollegeV2\DavinciCollegeV2\obj\Debug\DavinciCollegeV2.Form1.resources
+C:\Users\Ken\source\repos\DavinciCollegeV2\DavinciCollegeV2\obj\Debug\DavinciCollegeV2.Properties.Resources.resources
+C:\Users\Ken\source\repos\DavinciCollegeV2\DavinciCollegeV2\obj\Debug\DavinciCollegeV2.csproj.GenerateResource.cache
+C:\Users\Ken\source\repos\DavinciCollegeV2\DavinciCollegeV2\bin\Debug\DavinciCollegeV2.exe.config
+C:\Users\Ken\source\repos\DavinciCollegeV2\DavinciCollegeV2\bin\Debug\DavinciCollegeV2.exe
+C:\Users\Ken\source\repos\DavinciCollegeV2\DavinciCollegeV2\bin\Debug\DavinciCollegeV2.pdb
+C:\Users\Ken\source\repos\DavinciCollegeV2\DavinciCollegeV2\bin\Debug\OffCampus.dll
+C:\Users\Ken\source\repos\DavinciCollegeV2\DavinciCollegeV2\bin\Debug\OnCampus.dll
+C:\Users\Ken\source\repos\DavinciCollegeV2\DavinciCollegeV2\bin\Debug\Student.dll
+C:\Users\Ken\source\repos\DavinciCollegeV2\DavinciCollegeV2\bin\Debug\OffCampus.pdb
+C:\Users\Ken\source\repos\DavinciCollegeV2\DavinciCollegeV2\bin\Debug\OnCampus.pdb
+C:\Users\Ken\source\repos\DavinciCollegeV2\DavinciCollegeV2\bin\Debug\Student.pdb
+C:\Users\Ken\source\repos\DavinciCollegeV2\DavinciCollegeV2\obj\Debug\DavinciCollegeV2.csproj.CopyComplete
+C:\Users\Ken\source\repos\DavinciCollegeV2\DavinciCollegeV2\obj\Debug\DavinciCollegeV2.exe
+C:\Users\Ken\source\repos\DavinciCollegeV2\DavinciCollegeV2\obj\Debug\DavinciCollegeV2.pdb
